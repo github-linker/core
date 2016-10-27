@@ -6,7 +6,7 @@ So please, **open new issues only** [there](https://github.com/octo-linker/chrom
 [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
 
-This browserify friendly npm module contains everything what the Octo-Linker needs to work. Currently the core is only used by the Octo-Linker [Chrome Extension](https://github.com/octo-linker/chrome-extension). It would be possible to create other Octo-Linker extensions for another browser as well. But this is currently out of scope. By the way, contributes are welcome. Get in touch with me!
+This browserify friendly npm module contains everything that the Octo-Linker needs to work. Currently the core is only used by the Octo-Linker [Chrome Extension](https://github.com/octo-linker/chrome-extension). It would be possible to create other Octo-Linker extensions for another browser as well. But this is currently out of scope. By the way, contributes are welcome. Get in touch with me!
 
 ## Features
 
