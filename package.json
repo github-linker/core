@@ -20,7 +20,7 @@
     "async": "^1.4.2",
     "builtins": "^1.0.2",
     "github-injection": "^0.1.0",
-    "octo-linker-resolver": "octo-linker/resolver",
+    "octo-resolver": "OctoLinker/resolver",
     "jquery": "^2.1.1",
     "lodash": "2.4.1"
   },
